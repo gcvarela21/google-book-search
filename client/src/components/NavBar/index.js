@@ -16,7 +16,7 @@ function NavBar() {
                     <a className="nav-link nav-sub" href="/">Search Books</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link nav-sub" href="/Saved" target="_blank">Saved Books</a>
+                    <a className="nav-link nav-sub" href="/Saved">Saved Books</a>
                 </li>
                 
             </ul>
