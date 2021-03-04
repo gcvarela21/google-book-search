@@ -56,9 +56,9 @@ ______________________________________________________________________________
   
 ## Installation
 
-There is no installation required if you wish to access this app as is from the [deployed site on Heroku](https://underrated-moviedb.herokuapp.com/).
+There is no installation required if you wish to access this app as is from the [deployed site on Heroku](https://book-save-list.herokuapp.com/).
 
-For local installation [Node.js](https://nodejs.org/en/) needs to be installed as well as [MySQL and MySQl Workbench](https://www.mysql.com/products/workbench/). 
+For local installation [Node.js](https://nodejs.org/en/) needs to be installed as well as [Mongo DB](https://www.mongodb.com/). 
 
 Please clone or download the project folder. And create a new database in Workbench called "crtierion":
 
