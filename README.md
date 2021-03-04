@@ -21,7 +21,7 @@ We created a React-based Google Books Search app utilizing their API. This Proje
 * [Live Site](https://book-save-list.herokuapp.com/)
 * [Project Repository](https://github.com/gcvarela21/google-book-search)
 
-![GIF Visual of The Deployed Web Application](https://github.com/gcvarela21/google-book-search)
+![GIF Visual of The Deployed Web Application](https://github.com/pamela-gutierrez/google-book-search/blob/main/google-books.gif?raw=true)
 
 ______________________________________________________________________________
 
