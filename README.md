@@ -60,16 +60,20 @@ There is no installation required if you wish to access this app as is from the 
 
 For local installation [Node.js](https://nodejs.org/en/) needs to be installed as well as [Mongo DB](https://www.mongodb.com/). 
 
-Please clone or download the project folder. And create a new database in Workbench called "crtierion":
 
-
-Open your prefered terminal or comand_promt program and navigate into the project folder. Run the following command:
+Open your prefered terminal or comand_promt program and navigate into the base of the project folder. Run the following command:
 
 ```javascript
 npm install
 ```
 
-and then run the application with the next command:
+Navigate into the base of the client folder and then Run the following command:
+
+```javascript
+npm install
+```
+
+Fianlly navigate back into the the base of the main project folder and the application with the next command:
 
 ```javascript
 npm start
